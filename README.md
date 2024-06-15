@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React Native, .NET**
 
-- 💬 Ask me about **Android, Java, Competitive Programming**
+- 💬 Ask me about **Web Development, Machine learning, Code Refactoring**
 
 - 📫 How to reach me **zenun786@gmail.com**
 
