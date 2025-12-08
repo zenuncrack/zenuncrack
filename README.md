@@ -4,6 +4,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zenuncrack&label=Profile%20Views&color=blue&style=flat" alt="zenuncrack" />
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" />
+</p>
 
 - 🌱 I’m currently learning <b>MLOps and Large Language Models</b>  
 - 💬 Ask me about <b>Web Development, Machine Learning, Code Refactoring</b>  
