@@ -19,29 +19,14 @@
     <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" width="40" />
   </a>
 
-  <a href="https://facebook.com/zenun.chowdhury" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40" width="40" />
-  </a>
-
-  <a href="https://instagram.com/_the_aardvark_" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" width="40" />
-  </a>
-
-  <a href="https://www.hackerrank.com/zenun786" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=hackerrank" height="40" width="40" />
-  </a>
 </p>
-
 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,python,java,html,css,js,bootstrap,react,flask,django,dotnet,mongodb,mysql,postgres,sqlite,linux,git,github,postman,figma,pytorch,sklearn,opencv,firebase,googlecloud" />
+  <img
+    src="https://go-skill-icons.vercel.app/api/icons?i=cs,cpp,python,java,html,css,javascript,bootstrap,react,flask,django,dotnet,mongodb,mysql,postgresql,sqlite,linux,git,github,postman,figma,pytorch,scikitlearn,opencv,firebase,gcp,langchain&perline=10"
+  />
 </p>
 
-<br>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zenuncrack&theme=tokyonight" alt="zenuncrack" />
-</p>
 
