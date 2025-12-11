@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zenun</h1>
-<h3 align="center">A passionate .NET & Django Full-Stack Developer and AI/ML Researcher from Bangladesh</h3>
+<h3 align="center">A passionate Python Full-Stack Developer and AI/ML Researcher from Bangladesh</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zenuncrack&label=Profile%20Views&color=blue&style=flat" alt="zenuncrack" />
