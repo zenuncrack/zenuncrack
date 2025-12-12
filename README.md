@@ -1,32 +1,64 @@
 <h1 align="center">Hi 👋, I'm Zenun</h1>
-<h3 align="center">A passionate Python Full-Stack Developer and AI/ML Researcher from Bangladesh</h3>
 
+<h3 align="center">A Passionate Python Full-Stack Developer & AI/ML Researcher from Bangladesh</h3>
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=600&color=00A8FF&lines=Full-Stack+Developer;AI+%26+ML+Researcher;MLOps+Learner;Python+Enthusiast;Future+AGI+Architect" />
+</p>
+
+<!-- Profile Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zenuncrack&label=Profile%20Views&color=blue&style=flat" alt="zenuncrack" />
 </p>
+
+<!-- Coding GIF -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" />
 </p>
 
-- 🌱 I’m currently learning <b>MLOps and Large Language Models</b>  
-- 💬 Ask me about <b>Web Development, Machine Learning, Code Refactoring</b>  
-- 📫 Reach me at <b>zenun786@gmail.com</b>  
-- ⚡ Fun fact: <b>I am addicted to tea :></b>  
 
-<h3 align="left">Connect with me:</h3>
+
+## 🚀 About Me  
+
+- 🌱 I’m currently learning **MLOps & Large Language Models**  
+- 💬 Ask me about **Web Development, Machine Learning, Code Refactoring**  
+- 📫 Reach me at **zenun786@gmail.com**  
+- ⚡ Fun fact: **I am addicted to tea :>**
+
+
+
+## 🌐 Connect With Me  
 <p align="left">
   <a href="https://linkedin.com/in/zenun-chowdhury" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" width="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" width="40" />
   </a>
-
 </p>
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img
-    src="https://go-skill-icons.vercel.app/api/icons?i=cs,cpp,python,java,html,css,javascript,bootstrap,docker,flask,django,dotnet,mongodb,fastapi,mysql,postgresql,sqlite,linux,git,github,postman,figma,pytorch,scikitlearn,opencv,firebase,gcp,langchain&perline=10"
-  />
+
+## 🛠️ Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,java,cpp,cs,html,css,react,bootstrap,nodejs,django,fastapi,flask,dotnet,mongodb,mysql,postgres,sqlite,docker,git,github,linux,gcp,firebase,opencv,pytorch,tensorflow,postman,figma&perline=12" />
+</p>
+
+
+
+## 🚀 What I Do  
+- 🧠 AI & Machine Learning Research (Code Smells, NLP, CV)  
+- 📦 Full-Stack Development (Python / Django / FastAPI / .NET)  
+- ⚙️ MLOps (GCP, Docker, CI/CD)  
+- 🛢️ Database Design & Optimization  
+- 🔍 Software Refactoring & Clean Code  
+- 📊 Data Analytics & Predictive Modeling  
+
+
+
+
+
+## 📈 Contribution Activity  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zenuncrack&theme=react-dark" />
 </p>
 
 
