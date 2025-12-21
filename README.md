@@ -39,7 +39,7 @@
 
 ## 🛠️ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,java,cpp,cs,html,css,bootstrap,django,fastapi,flask,dotnet,mongodb,mysql,postgres,sqlite,docker,git,github,linux,aws,firebase,opencv,pytorch,postman,figma&perline=12" />
+  <img src="https://skillicons.dev/icons?i=python,js,java,cpp,cs,html,css,bootstrap,django,fastapi,flask,dotnet,mongodb,mysql,postgres,sqlite,docker,git,github,linux,aws,firebase,gcp,opencv,pytorch,postman,figma&perline=12" />
 </p>
 
 
