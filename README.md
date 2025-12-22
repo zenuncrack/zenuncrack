@@ -30,7 +30,7 @@
 </p>
 
 ## 🌐 Connect With Me  
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/zenun-chowdhury" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" width="40" />
   </a>
