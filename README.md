@@ -17,8 +17,6 @@
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" />
 </p>
 
-
-
 ## 🚀 About Me  
 
 - 🌱 I’m currently learning **MLOps & Large Language Models**  
@@ -26,7 +24,10 @@
 - 📫 Reach me at **zenun786@gmail.com**  
 - ⚡ Fun fact: **I am addicted to tea :>**
 
-
+<!-- Snake Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ## 🌐 Connect With Me  
 <p align="left">
@@ -35,14 +36,10 @@
   </a>
 </p>
 
-
-
 ## 🛠️ Tech Stack  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,java,cpp,cs,html,css,bootstrap,django,fastapi,flask,dotnet,mongodb,mysql,postgres,sqlite,docker,git,github,linux,aws,firebase,gcp,opencv,pytorch,postman,figma&perline=12" />
 </p>
-
-
 
 ## 🚀 What I Do  
 - 🧠 AI & Machine Learning Research (Code Smells, NLP, CV)  
@@ -51,10 +48,6 @@
 - 🛢️ Database Design & Optimization  
 - 🔍 Software Refactoring & Clean Code  
 - 📊 Data Analytics & Predictive Modeling  
-
-
-
-
 
 ## 📈 Contribution Activity  
 <p align="center">
