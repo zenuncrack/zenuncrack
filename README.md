@@ -4,7 +4,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=600&color=00A8FF&lines=Python-Full-Stack+Developer;AI+%26+ML+Researcher;MLOps+Learner;Python+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=600&color=00A8FF&lines=Python-Full-Stack+Developer;AI+%26+ML+Researcher;MLOps+Learner;Python+Enthusiast;Java+Spring+Boot;ASP+.NET+core" />
 </p>
 
 <!-- Profile Views -->
@@ -38,7 +38,7 @@
 
 ## 🛠️ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,java,cpp,cs,html,css,bootstrap,fastapi,flask,dotnet,mongodb,mysql,postgres,sqlite,docker,git,github,linux,aws,firebase,gcp,opencv,pytorch,postman,figma&perline=12" />
+  <img src="https://skillicons.dev/icons?i=python,js,java,cpp,cs,html,css,bootstrap,fastapi,flask,dotnet,spring,mongodb,mysql,postgres,sqlite,docker,git,github,linux,aws,firebase,gcp,opencv,pytorch,postman,figma&perline=12" />
 </p>
 
 ## 🚀 What I Do  
