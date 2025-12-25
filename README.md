@@ -12,10 +12,11 @@
   <img src="https://komarev.com/ghpvc/?username=zenuncrack&label=Profile%20Views&color=blue&style=flat" alt="zenuncrack" />
 </p>
 
-<!-- Coding GIF -->
+<!-- Snake Animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
 
 ## 🚀 About Me  
 
@@ -24,10 +25,6 @@
 - 📫 Reach me at **zenun786@gmail.com**  
 - ⚡ Fun fact: **I am addicted to tea :>**
 
-<!-- Snake Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
 
 ## 🌐 Connect With Me  
 <p align="center">
